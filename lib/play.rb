@@ -35,10 +35,11 @@ def turn(board)
   end
 end
 
+<<<<<<< HEAD
 def play(board)
   turns = 1
   while turns < 10
     puts turn(board)
   turns += 1
-  end
-end
+  end 
+end 
